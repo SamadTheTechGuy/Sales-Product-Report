@@ -13,3 +13,4 @@ Data was gotten from kaggle and is a public dataset made available through knigh
 * Data Cleaning
 * Creation of DAX (Data Analysis Expression) measures
 * Data Modelling
+![Screenshot (88)](https://user-images.githubusercontent.com/97789215/217859090-adc61f35-d6e5-4179-ad5e-dbfbf28e9bdb.png)
