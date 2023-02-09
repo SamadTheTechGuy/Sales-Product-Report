@@ -18,3 +18,5 @@ Data was gotten from kaggle and is a public dataset made available through knigh
 ## Insights
 The total sales from Jan-2019 to Dec-2019 was $34.46M. The company's total product sold was 185,652, total average daily sales was $94,402, and total quantity ordered was 208,771.  
 ![Screenshot (91)](https://user-images.githubusercontent.com/97789215/217889042-b29f456a-0b0d-4fae-bd1b-aa5f1ca3d120.png)
+Macbook Pro Laptop product had the highest Sales of $8.03M which accounted for 23% of the Total Sales due to the high price of each item
+![Screenshot (95)](https://user-images.githubusercontent.com/97789215/217894480-18ffedf9-2c37-4816-9d94-26bf31af631f.png)
