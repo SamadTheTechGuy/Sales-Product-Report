@@ -20,3 +20,5 @@ The total sales from Jan-2019 to Dec-2019 was $34.46M. The company's total produ
 ![Screenshot (91)](https://user-images.githubusercontent.com/97789215/217889042-b29f456a-0b0d-4fae-bd1b-aa5f1ca3d120.png)
 Macbook Pro Laptop product had the highest Sales of $8.03M which accounted for 23% of the Total Sales due to the high price of each item
 ![Screenshot (95)](https://user-images.githubusercontent.com/97789215/217894480-18ffedf9-2c37-4816-9d94-26bf31af631f.png)
+USB-C Charging Cable product was sold the most - 21,855 out of 185,652 items which was due to the quantity of items ordered
+![Screenshot (98)](https://user-images.githubusercontent.com/97789215/217898213-a4b7ea7a-bb26-48fd-92fa-ddbc065d28b2.png)
