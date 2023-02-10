@@ -27,6 +27,7 @@ Monthly Sales trend : December had the highest sales
 ![Screenshot (106)](https://user-images.githubusercontent.com/97789215/218143905-9a9376ab-d73d-4cfa-b886-4a557a6040b0.png)
 San Francisco City had the highest Sales of $8.25M of the products
 ![Screenshot (108)](https://user-images.githubusercontent.com/97789215/218148111-3827b911-84bc-48fd-967c-aa66c07b353f.png)
+
 The best time to display advertisement would be at 19:00 because most of the items were being ordered at this time
 ![Screenshot (110)](https://user-images.githubusercontent.com/97789215/218152244-6a94f0ce-ed25-4bee-b177-a859a446cf54.png)
 
