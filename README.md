@@ -23,13 +23,15 @@ Macbook Pro Laptop Product had the highest Sales of $8.03M which accounted for 2
 
 USB-C Charging Cable product was sold the most - 21,855 out of 185,652 items was due to the high numbers of the quantity ordered
 ![Screenshot (98)](https://user-images.githubusercontent.com/97789215/217898213-a4b7ea7a-bb26-48fd-92fa-ddbc065d28b2.png)
-Monthly Sales trend : December had the highest sales
+Monthly Sales Trend: December had the highest sales
 ![Screenshot (106)](https://user-images.githubusercontent.com/97789215/218143905-9a9376ab-d73d-4cfa-b886-4a557a6040b0.png)
 San Francisco City had the highest Sales of $8.25M of the products
 ![Screenshot (108)](https://user-images.githubusercontent.com/97789215/218148111-3827b911-84bc-48fd-967c-aa66c07b353f.png)
 
 The best time to display advertisement would be at 19:00 because most of the items were being ordered at this time
 ![Screenshot (110)](https://user-images.githubusercontent.com/97789215/218152244-6a94f0ce-ed25-4bee-b177-a859a446cf54.png)
+Average Daily Sales Trend: December had the highest average daily sales
+![Screenshot (112)](https://user-images.githubusercontent.com/97789215/218154462-b20c8c78-f8e2-41d7-8a60-b73b8e05c033.png)
 
 
 
