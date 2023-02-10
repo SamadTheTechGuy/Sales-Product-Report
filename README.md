@@ -30,6 +30,7 @@ San Francisco City had the highest Sales of $8.25M of the products
 
 The best time to display advertisement would be at 19:00 because most of the items were being ordered at this time
 ![Screenshot (110)](https://user-images.githubusercontent.com/97789215/218152244-6a94f0ce-ed25-4bee-b177-a859a446cf54.png)
+
 Average Daily Sales Trend: December had the highest average daily sales
 ![Screenshot (112)](https://user-images.githubusercontent.com/97789215/218154462-b20c8c78-f8e2-41d7-8a60-b73b8e05c033.png)
 
