@@ -23,6 +23,7 @@ Macbook Pro Laptop product had the highest Sales of $8.03M which accounted for 2
 
 USB-C Charging Cable product was sold the most - 21,855 out of 185,652 items was due to the high numbers of the quantity ordered
 ![Screenshot (98)](https://user-images.githubusercontent.com/97789215/217898213-a4b7ea7a-bb26-48fd-92fa-ddbc065d28b2.png)
+
 Monthly Sales trend : December had the highest sales
 ![Screenshot (102)](https://user-images.githubusercontent.com/97789215/218142638-834b694b-aa38-4162-a2f9-e7d7dac26e61.png)
 
