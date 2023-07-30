@@ -22,8 +22,6 @@ Data was gotten from kaggle and is a public dataset made available through knigh
 * Data Modelling
 ![Screenshot (88)](https://user-images.githubusercontent.com/97789215/217859090-adc61f35-d6e5-4179-ad5e-dbfbf28e9bdb.png)
 * Data visualization
-* Dashboard
-![Screenshot (114)](https://user-images.githubusercontent.com/97789215/221419059-0ed81ee1-b215-4ac8-9387-eba8fa69fd19.png)
 
 ## Insights
 The total sales from Jan-2019 to Dec-2019 was $34.46M. The company's total products sold was 185,652, total average daily sales was $94,402, and total quantity ordered was 208,771.  
